@@ -7,7 +7,7 @@ The features were extracted using the LLaMA-3-70B language model. The full promp
 ![Alt Text](Prompt.JPG)
 To support and accelerate research in this field, we decided to publish this dataset and its features. We hope it provides sufficient information for researchers working on text-based stock prediction models for the Tehran Stock Exchange, helping to reduce both time and computational cost.
 ## **Citation**
-If you use this dataset in your research or work environment, please cite our paper:
+If you use this dataset in your research or work environment, please cite our [paper](https://ieeexplore.ieee.org/document/10892779):
 ```bibtex
 @inproceedings{saffarian2024llm,
   title={LLM-Driven Feature Extraction for Stock Market Prediction: A Case Study of Tehran Stock Exchange},
